@@ -8,7 +8,7 @@ Magento Responsive Theme built with Twitter Bootstrap v3
 <li>Fluid 12 grid system optimized for 320px, 750px, 970px, 1170px</li>
 <li>Makes minimal changes to the default theme structure</li>
 <li>Includes just one layout file (local.xml)</li>
-<li>Does not include the kitchen sink</li>
+<li>Kitchen sink optional</li>
 </ul>
 ================
 
